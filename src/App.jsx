@@ -5,7 +5,7 @@ import Flex from './components/Flex'
 import { ImAirplane, ImFacebook2  } from "react-icons/im";
 import { DiAndroid } from "react-icons/di";
 import { DiJsBadge } from "react-icons/di";
-import Image from './components/image';
+
 
 function App() {
 
